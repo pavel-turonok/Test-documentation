@@ -5,6 +5,6 @@
  ### Test documentation
  ___
  
- - *[Smoke checklist](https://docs.google.com/spreadsheets/d/1WIfIiCJrUfp_yoCRCfXwHEDOzmXS8CodGCGupI4jrqQ/edit#gid=0)* for mobile app (Prod Vesrion) example
- - *[Regression checklist](https://docs.google.com/spreadsheets/d/1bE29_tWuWtqu_bj17Hj9qjCSUx7u09Uky41fMneg-Pk/edit#gid=0)* for mobile app (Prod Vesrion) example
- - *[Bug reports](https://docs.google.com/spreadsheets/d/1DJPNmshqrS95dSu4GRuhgxikBi10Mq1VekE67HsezJc/edit#gid=0)* example
+ - *[Smoke checklist](https://docs.google.com/spreadsheets/d/1WIfIiCJrUfp_yoCRCfXwHEDOzmXS8CodGCGupI4jrqQ/edit?usp=sharing)* for mobile app (Prod Vesrion) example
+ - *[Regression checklist](https://docs.google.com/spreadsheets/d/1bE29_tWuWtqu_bj17Hj9qjCSUx7u09Uky41fMneg-Pk/edit?usp=sharing)* for mobile app (Prod Vesrion) example
+ - *[Bug reports](https://docs.google.com/spreadsheets/d/1DJPNmshqrS95dSu4GRuhgxikBi10Mq1VekE67HsezJc/edit?usp=sharing)* example
